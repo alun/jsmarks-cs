@@ -2,7 +2,7 @@
   version: 0.1.0-SNAPSHOT
   org: com.katlex
   name: js-marks-site
-  class: com.katlex.jsmarks.boot.Start
+  class: com.katlex.jsmarks.boot.Launch.Import
 [scala]
   version: 2.9.1
 [repositories]
